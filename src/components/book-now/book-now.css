@@ -1,0 +1,8 @@
+.bookText {
+    background-color: aliceblue;
+    max-width: 400px;
+    display: flex;
+    justify-content: center;
+    align-content: center;
+    
+}
